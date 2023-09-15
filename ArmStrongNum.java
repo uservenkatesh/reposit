@@ -14,7 +14,7 @@ public class ArmStrongNum {
 		
 	    char[] arr=a.toCharArray();
 	    
-	    
+	
 		
 		
 		
